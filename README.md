@@ -20,3 +20,4 @@ adaptándose a sus necesidades específicas de operación y control comercial.
 ## Rol personal
 Análisis de requerimientos del cliente, diseño y desarrollo completo de la
 aplicación, enfocada en resolver un problema real de gestión de ventas.
+<img width="570" height="300" alt="image" src="https://github.com/user-attachments/assets/d29ab095-1060-4cd5-83d2-652bc80edbae" />
